@@ -1,0 +1,38 @@
+Arsenal
+Barselona 1 0 1 28
+Spartak 1 1 1 49
+Bavaria 1 1 1 46
+Barselona
+Arsenal 1 1 0 11
+Manchester 1 1 1 49
+Dinamo 1 0 0 22
+Manchester
+Barselona 1 0 0 42
+Dinamo 2 1 1 46
+Uventus 1 1 1 32
+Spartak
+Uventus 1 0 0 15
+Chelsea 1 1 1 21
+Real 1 1 1 37
+Arsenal 1 0 0 39
+Uventus
+Spartak 1 1 1 41
+Real 1 0 1 30
+Bavaria 1 1 0 24
+Manchester 1 0 0 8
+Dinamo
+Manchester 2 1 1 30
+Barselona 1 1 1 50
+Chelsea
+Spartak 1 0 0 17
+Liverpool 1 0 1 33
+Real
+Uventus 1 1 0 23
+Spartak 1 0 0 33
+Bavaria
+Uventus 1 0 1 29
+Liverpool 1 1 1 33
+Arsenal 1 0 0 38
+Liverpool
+Chelsea 1 1 0 27
+Bavaria 1 0 0 20

@@ -1,0 +1,11 @@
+100
+STOPS: Moskovskaya Nizhegorodskaya Verchnepecherskaya
+200
+STOPS: Sormovskaya Nizhegorodskaya Proletarskaya
+300
+STOPS: Moskovskaya Minina Nizhegorodskaya Semenovskaya Vedenyapina Lenina Verchnepecherskaya
+400
+STOPS: Vesennya Panina Proletarskaya Gryada Vishnevaya Verchnepecherskaya
+BUSES FROM Moskovskaya TO Verchnepecherskaya:
+100
+300

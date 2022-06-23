@@ -1,0 +1,25 @@
+ADD BUS 100
+ADD STOP 100 Moskovskaya
+ADD STOP 100 Nizhegorodskaya
+ADD STOP 100 Verchnepecherskaya
+ADD BUS 200
+ADD STOP 200 Sormovskaya
+ADD STOP 200 Nizhegorodskaya
+ADD STOP 200 Proletarskaya
+ADD BUS 300
+ADD STOP 300 Moskovskaya
+ADD STOP 300 Minina
+ADD STOP 300 Nizhegorodskaya
+ADD STOP 300 Semenovskaya
+ADD STOP 300 Vedenyapina
+ADD STOP 300 Lenina
+ADD STOP 300 Verchnepecherskaya
+ADD BUS 400
+ADD STOP 400 Vesennya
+ADD STOP 400 Panina
+ADD STOP 400 Proletarskaya
+ADD STOP 400 Gryada
+ADD STOP 400 Vishnevaya
+ADD STOP 400 Verchnepecherskaya
+PRINT ALL
+FIND Moskovskaya Verchnepecherskaya
