@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matve/CLionProjects/Contest_if/main.c
+stdio.h
+-
+stdio.h
+-
+windows.h
+-
+math.h
+-
+math.h
+-
+
+C:/Users/matve/CLionProjects/Contest_if/onemore.c
+
