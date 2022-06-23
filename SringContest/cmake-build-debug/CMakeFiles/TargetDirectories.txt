@@ -1,0 +1,3 @@
+C:/Users/matve/CLionProjects/SringContest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matve/CLionProjects/SringContest/cmake-build-debug/CMakeFiles/SringContest.dir
+C:/Users/matve/CLionProjects/SringContest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

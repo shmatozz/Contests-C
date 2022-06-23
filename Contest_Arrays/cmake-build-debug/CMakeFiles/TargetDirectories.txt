@@ -1,0 +1,3 @@
+C:/Users/matve/CLionProjects/Contest_Arrays/cmake-build-debug/CMakeFiles/Contest_Arrays.dir
+C:/Users/matve/CLionProjects/Contest_Arrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matve/CLionProjects/Contest_Arrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir

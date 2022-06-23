@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matve/CLionProjects/Contest_Arrays2/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+math.h
+-
+stdio.h
+-
+stdio.h
+-
+stdio.h
+-
+
